@@ -1,0 +1,105 @@
+[
+    {
+        "kredit": [
+             {
+                "id": 1,
+                "name": "Bolkart kredit",
+                "image": "img/Bolkart-kredit-bob.gif",
+                "information": "Bolkart kredit kartı ilə bol xərclə, bol qazan.",
+                "duration": "40 ay",
+                "limit": "min. 500 AZN - maks. 15.000 AZN",
+                "grace": "120 gün"
+            },
+         {
+                "id": 2,
+                "name": "Bolkart Gold kredit",
+                "image": "img/Bolkart-Gold+(1)-kredit-bob.gif",
+                "information": "Ümumi məqsədlər üçün",
+                "duration": "35 ay",
+                "limit": "min. 3.000 AZN - maks. 15.000 AZN",
+                "grace": "60 gün"
+            },
+             {
+                "id": 3,
+                "name": "Bolkart Diamond Kredit",
+                "image": "img/Bolkart-Diamond.png",
+                "information": "Ümumi məqsədlər üçün",
+                "duration": "35 ay",
+                "limit": "min. 3.000 AZN - maks. 30.000 AZN",
+                "grace": "60 gün"
+            },
+             {
+                "id": 4,
+                "name": "Bolkart Qızıl Kredit",
+                "image": "img/Bolkart-Diamond.png",
+                "information": "Qızıl-zinət əşyaları təminatı ilə “Bank of Baku”dan kredit əldə edib “Qızıl Kartı” kredit kartının imkanlarından faydalana biləcəksiniz.",
+                "duration": "35 ay",
+                "limit": "min. 3.000 AZN - maks. 30.000 AZN",
+                "grace": "60 gün"
+            }
+        ],
+        "debet": [
+        {
+                "id": 1,
+                "name": "Bolkart Debet",
+                "image": "img/Bolkart-kredit-bob.gif",
+                "information": "Bolkart debet kartı ilə üstünlükləri kəşf et.",
+                "price": "Pulsuz",
+                "grace": "60 gün"
+            },
+         {
+                "id": 2,
+                "name": "Bolkart Diamond Debet",
+                "image": "img/Bolkart-Diamond.png",
+                "information": "Böyük imkanlar vəd edən kartı həyatının əvəzolunmaz bir hissəsinə çevir",
+                "price": "100, 170, 250 AZN",
+                "grace": "12, 24, 36 ay"
+            },
+             {
+                "id": 3,
+                "name": "Bolkart Gold Debet",
+                "image": "img/Bolkart-Gold.png",
+                "information": "Bolkart Platinum debet kartı ilə üstünlükləri kəşf et.",
+                "price": "50 azn",
+                "grace": "36 ay"
+            },
+         {
+                "id": 4,
+                "name": "Bank of Baku Debet",
+                "image": "img/BoB-Card-Visa+(1).png",
+                "information": "Böyük imkanlar vədd edən VISA CLASSIC kartı həyatının əvəzolunmaz bir hissəsinə çevir",
+                "price": "8, 14, 20 AZN",
+                "grace": "12, 24, 36 ay"
+            }
+        ],
+        "local":[
+        {
+                "id":1,
+                "name":"Dostlar klubu Brilliant",
+                "image":"img/brilliant",
+                "information":"Daimi kredit müştəriləri üçün",
+                "price":"Pulsuz",
+                "value":"AZN",
+                "limit":"600 AZN"
+            },
+            {
+                "id":2,
+                "name":"Dostlar klubu Qızıl",
+                "image":"img/dostlar+klubu+qizil.png",
+                "information":"Daimi kredit müştəriləri üçün",
+                "price":"Pulsuz",
+                "value":"AZN",
+                "limit":"500 AZN"
+            },
+            {
+                "id":3,
+                "name":"Dostlar klubu Gümüş",
+                "image":"img/dostlar+klubu+gumus.png",
+                "information":"Daimi kredit müştəriləri üçün",
+                "price":"Pulsuz",
+                "value":"AZN",
+                "limit":"400 AZN"
+            }
+        ]
+    }
+]
